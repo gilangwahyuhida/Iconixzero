@@ -2,7 +2,7 @@
 
 Kelompok 4
 
-Nama Anggota :i
+Nama Anggota :
 1. Adie Bagus Satrio 
 TI 2A / 03 
 1841720186

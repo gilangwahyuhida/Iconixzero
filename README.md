@@ -37,5 +37,5 @@ PROGRES
 (22 Februari 2020)
 1. Progres proposal proyek v1
 
-(01 Maret 2020)
+(02 Maret 2020)
 1. Progres SKPL v1

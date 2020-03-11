@@ -39,3 +39,6 @@ PROGRES
 
 (02 Maret 2020)
 1. Progres SKPL v1
+
+(05 Maret 2020)
+1. Progres System Requirement

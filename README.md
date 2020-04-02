@@ -43,6 +43,26 @@ PROGRES
 (05 Maret 2020)
 1. Progres System Requirement
 
-(03 April 2020)
+(02 April 2020)
 1. Website masih bisa dijalankan secara lokal, untuk menjalankannya download file sewa.rar
 di file sewa.rar sudah terdapat file website dan databasenya
+
+(03 April 2020)
+1. Website sudah bisa diakses melalui http://malangrentcamp.000webhostapp.com/
+untuk coba login bisa menggunakan email dan password sebagai berikut
+
+Level Admin :
+email : admin@admin.com
+pass : admin
+
+level User : 
+email : henrymic0408@gmail.com
+pass : henry123
+
+namun masih memiliki kendala diantaranya
+1.website yang diakses lemot jadi kadang gambar tidak berhasil muncul dan tampilannya akan rusak
+2.tab tentang dan kontak masih belum ada isinya jadi saat akan dibuka selalu error
+3.saat melakukan persewaan data yang disewa bertambah tetapi saat melakukan persewaan lagi data yang lama tertumpuk
+Contoh : 
+saat sewa tenda 1 buah lalu menyewa tas carrier 1 buah yang muncul di nota nya adalah tenda 2 buah
+4. pada halaman admin tab pengaturan juga belum ada isinya

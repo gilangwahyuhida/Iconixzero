@@ -42,3 +42,7 @@ PROGRES
 
 (05 Maret 2020)
 1. Progres System Requirement
+
+(03 April 2020)
+1. Website masih bisa dijalankan secara lokal, untuk menjalankannya download file sewa.rar
+di file sewa.rar sudah terdapat file website dan databasenya

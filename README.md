@@ -48,7 +48,7 @@ PROGRES
 di file sewa.rar sudah terdapat file website dan databasenya
 
 (03 April 2020)
-1. Website sudah bisa diakses melalui http://malangrentcamp.000webhostapp.com/
+1. Website sudah bisa diakses melalui http://malangrentcamp.000webhostapp.com/login
 untuk coba login bisa menggunakan email dan password sebagai berikut
 
 Level Admin :

@@ -68,6 +68,6 @@ saat sewa tenda 1 buah lalu menyewa tas carrier 1 buah yang muncul di nota nya a
 4. pada halaman admin tab pengaturan juga belum ada isinya
 
 Penjelasan mengenai proyek tersebut dapat dilihat di youtube 
-Subscribe : https://www.youtube.com/channel/UC3AahZShXbDTESd1n8SV-rA?sub_confirmation=1
-Link 1: https://www.youtube.com/watch?v=wrELHLdXmfw
-Link 2: https://www.youtube.com/watch?v=gbJ5S6y7k6A
+1. Subscribe : https://www.youtube.com/channel/UC3AahZShXbDTESd1n8SV-rA?sub_confirmation=1
+2. Link 1: https://www.youtube.com/watch?v=wrELHLdXmfw
+3. Link 2: https://www.youtube.com/watch?v=gbJ5S6y7k6A

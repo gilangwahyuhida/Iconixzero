@@ -48,16 +48,17 @@ PROGRES
 di file sewa.rar sudah terdapat file website dan databasenya
 
 (03 April 2020)
-1. Website sudah bisa diakses melalui http://malangrentcamp.000webhostapp.com/login
-untuk coba login bisa menggunakan email dan password sebagai berikut
+1. Website sudah bisa diakses melalui http://malangrentalcamp.000webhostapp.com/
+untuk coba login bisa menggunakan email dan password sebagai berikut. Mohon direfresh apabila tampilan web
+terjadi masalah karena kondisi hosting gratisan dan kapasitas file yang terlalu besar.
 
 Level Admin :
 email : admin@admin.com
 pass : admin
 
 level User : 
-email : henrymic0408@gmail.com
-pass : henry123
+1. email : henrymic0408@gmail.com | pass : henry123
+2. email : gilang@gmail.com | 1234
 
 namun masih memiliki kendala diantaranya
 1.website yang diakses lemot jadi kadang gambar tidak berhasil muncul dan tampilannya akan rusak

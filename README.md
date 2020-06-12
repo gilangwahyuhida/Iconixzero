@@ -53,22 +53,15 @@ untuk coba login bisa menggunakan email dan password sebagai berikut. Mohon dire
 terjadi masalah karena kondisi hosting gratisan dan kapasitas file yang terlalu besar.
 
 Level Admin :
-email : admin@admin.com
-pass : admin
+1. email : admin@admin.com | pass : admin
 
 level User : 
 1. email : henrymic0408@gmail.com | pass : henry123
 2. email : gilang@gmail.com | 1234
 
-namun masih memiliki kendala diantaranya
-1.website yang diakses lemot jadi kadang gambar tidak berhasil muncul dan tampilannya akan rusak
-2.tab tentang dan kontak masih belum ada isinya jadi saat akan dibuka selalu error
-3.saat melakukan persewaan data yang disewa bertambah tetapi saat melakukan persewaan lagi data yang lama tertumpuk
-Contoh : 
-saat sewa tenda 1 buah lalu menyewa tas carrier 1 buah yang muncul di nota nya adalah tenda 2 buah
-4. pada halaman admin tab pengaturan juga belum ada isinya
-
 Penjelasan mengenai proyek tersebut dapat dilihat di youtube 
 1. Subscribe : https://www.youtube.com/channel/UC3AahZShXbDTESd1n8SV-rA?sub_confirmation=1
 2. Link 1: https://www.youtube.com/watch?v=wrELHLdXmfw
 3. Link 2: https://www.youtube.com/watch?v=gbJ5S6y7k6A
+
+nb: Website tersebut masih tahap pengembangan apabila terjadi masalah mohon dimaklumi.

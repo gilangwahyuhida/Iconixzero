@@ -66,3 +66,8 @@ namun masih memiliki kendala diantaranya
 Contoh : 
 saat sewa tenda 1 buah lalu menyewa tas carrier 1 buah yang muncul di nota nya adalah tenda 2 buah
 4. pada halaman admin tab pengaturan juga belum ada isinya
+
+Penjelasan mengenai proyek tersebut dapat dilihat di youtube 
+Subscribe : https://www.youtube.com/channel/UC3AahZShXbDTESd1n8SV-rA?sub_confirmation=1
+Link 1: https://www.youtube.com/watch?v=wrELHLdXmfw
+Link 2: https://www.youtube.com/watch?v=gbJ5S6y7k6A
